@@ -10,9 +10,6 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://manjitcom.wordpress.com">
-    <img src="https://img.shields.io/badge/🌍 Website-Visit-blue?style=for-the-badge">
-  </a>
   <a href="https://tiktok.com/@.m.k1432">
     <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok">
   </a>
