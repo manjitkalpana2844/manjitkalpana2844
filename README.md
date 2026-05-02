@@ -16,7 +16,7 @@
   <a href="https://tiktok.com/@.m.k1432">
     <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok">
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
+  <a href="https://www.facebook.com/kmcmanjeet12">
     <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook">
   </a>
   <a href="https://gravatar.com/dailymanjitrana">
@@ -29,8 +29,8 @@
 ## 🧲 Followers & Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=green" />
+  <img src="https://komarev.com/ghpvc/?username=manjitkalpana2844&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/manjitkalpana2844?label=Followers&style=for-the-badge&color=green" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manjitkalpana2844&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -70,8 +70,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manjitkalpana2844&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjitkalpana2844&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjitkalpana2844&theme=tokyo-night" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/manjitkalpana2844/manjitkalpana2844/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
